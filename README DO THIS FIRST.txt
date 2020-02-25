@@ -1,7 +1,7 @@
 NOTABLE THINGS
 
 0. PHP Scripts: 
-- Look under: C:\xampp\htdocs\Android
+- Look in this folder: Android-PHP
 
 1. Using volley: 
 - Search: volley jcenter (on google)
