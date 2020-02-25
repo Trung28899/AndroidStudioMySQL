@@ -2,6 +2,7 @@ NOTABLE THINGS
 
 0. PHP Scripts: 
 - Look in this folder: Android-PHP
+- Simplified Coding Series
 
 1. Using volley: 
 - Search: volley jcenter (on google)
